@@ -51,9 +51,31 @@ Présentation des compétences, projets et services de SmartDev Studio.
 🔗 [Voir le site](https://tonsite.com)
 
 ---
+🧠 Objectifs 2025
 
-## ⚙️ Installation (développeurs)
+✅ Lancer le site officiel smartdevstudio.com
+🚀 Développer un template d’application low-cost pour PME africaines
+📱 Créer la version mobile du simulateur de devis
+🤝 Collaborer avec des freelances et agences locales
 
+💬 Contact
+
+Tu veux créer ton site ou une application sur mesure ?
+Discutons-en dès aujourd’hui 👇
+
+📞 WhatsApp : +228 79963708
+
+📧 Email : djaglijosephbenoit@gmail.com
+
+🌍 Site web : bientôt disponible
+
+🌟 Remerciements
+
+Merci à tous ceux qui soutiennent la vision de SmartDev Studio –
+le développement local, moderne et professionnel au service de l’Afrique.
+
+“Le code, c’est notre outil pour construire des solutions durables.”
+— DJAGLI Joseph Bénoît
 ```bash
 # 1. Cloner le dépôt
 git clone https://github.com/tonpseudo/smartdev-studio.git
@@ -62,3 +84,4 @@ git clone https://github.com/tonpseudo/smartdev-studio.git
 cd smartdev-studio
 
 # 3. Lancer avec Live Server ou un serveur PHP local
+
